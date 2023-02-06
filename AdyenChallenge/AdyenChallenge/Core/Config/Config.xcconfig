@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  AdyenChallenge
+//
+//  Created by Sajjad Haider Zaidi on 06/02/2023.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+API_KEY = fsq3uvyPkERqKaurhEfI3bayTf2nMidXVWnuWfjQISVIFGI=

@@ -1,0 +1,211 @@
+
+{
+  "results": [
+    {
+      "fsq_id": "49f0ee61f964a52071691fe3",
+      "categories": [
+        {
+          "id": 17082,
+          "name": "Furniture and Home Store"
+        }
+      ],
+      "distance": 32,
+      "geocodes": {
+        "main": {
+          "latitude": 37.785873,
+          "longitude": -122.406599
+        }
+      },
+      "name": "CB2 Union Square"
+    },
+    {
+      "fsq_id": "58a3a06dbbec6606e1b580a3",
+      "categories": [
+        {
+          "id": 17069,
+          "name": "Grocery Store / Supermarket"
+        }
+      ],
+      "distance": 90,
+      "geocodes": {
+        "main": {
+          "latitude": 37.785418,
+          "longitude": -122.405712
+        },
+        "roof": {
+          "latitude": 37.785418,
+          "longitude": -122.405712
+        }
+      },
+      "name": "Trader Joe's"
+    },
+    {
+      "fsq_id": "45214307f964a520c33a1fe3",
+      "categories": [
+        {
+          "id": 17043,
+          "name": "Clothing Store"
+        }
+      ],
+      "distance": 123,
+      "geocodes": {
+        "main": {
+          "latitude": 37.784935,
+          "longitude": -122.407333
+        },
+        "roof": {
+          "latitude": 37.784935,
+          "longitude": -122.407333
+        }
+      },
+      "name": "Anthropologie"
+    },
+    {
+      "fsq_id": "4a2dda49f964a520fd971fe3",
+      "categories": [
+        {
+          "id": 11073,
+          "name": "Spa"
+        }
+      ],
+      "distance": 155,
+      "geocodes": {
+        "main": {
+          "latitude": 37.784128,
+          "longitude": -122.406353
+        },
+        "roof": {
+          "latitude": 37.784128,
+          "longitude": -122.406353
+        }
+      },
+      "name": "Burke Williams Day Spa"
+    },
+    {
+      "fsq_id": "5086cce64c7f15b6c84dbc67",
+      "categories": [
+        {
+          "id": 17039,
+          "name": "Fashion Retail"
+        }
+      ],
+      "distance": 162,
+      "geocodes": {
+        "main": {
+          "latitude": 37.787331,
+          "longitude": -122.406757
+        },
+        "roof": {
+          "latitude": 37.787331,
+          "longitude": -122.406757
+        }
+      },
+      "name": "Louis Vuitton"
+    },
+    {
+      "fsq_id": "49dd4222f964a520f85f1fe3",
+      "categories": [
+        {
+          "id": 11064,
+          "name": "Hair Salon"
+        }
+      ],
+      "distance": 191,
+      "geocodes": {
+        "main": {
+          "latitude": 37.787099,
+          "longitude": -122.405095
+        },
+        "roof": {
+          "latitude": 37.787099,
+          "longitude": -122.405095
+        }
+      },
+      "name": "Cinta Salon"
+    },
+    {
+      "fsq_id": "4b54cbf6f964a520e2cc27e3",
+      "categories": [
+        {
+          "id": 11061,
+          "name": "Health and Beauty Service"
+        }
+      ],
+      "distance": 207,
+      "geocodes": {
+        "main": {
+          "latitude": 37.787424,
+          "longitude": -122.405114
+        },
+        "roof": {
+          "latitude": 37.787424,
+          "longitude": -122.405114
+        }
+      },
+      "name": "Patrick Evan Salon"
+    },
+    {
+      "fsq_id": "469019cbf964a5209f481fe3",
+      "categories": [
+        {
+          "id": 13068,
+          "name": "American Restaurant"
+        }
+      ],
+      "distance": 190,
+      "geocodes": {
+        "main": {
+          "latitude": 37.787304,
+          "longitude": -122.407544
+        },
+        "roof": {
+          "latitude": 37.787304,
+          "longitude": -122.407544
+        }
+      },
+      "name": "The Cheesecake Factory"
+    },
+    {
+      "fsq_id": "516ddbdee4b03303eba849c8",
+      "categories": [
+        {
+          "id": 11064,
+          "name": "Hair Salon"
+        }
+      ],
+      "distance": 202,
+      "geocodes": {
+        "main": {
+          "latitude": 37.787765,
+          "longitude": -122.406209
+        },
+        "roof": {
+          "latitude": 37.787765,
+          "longitude": -122.406209
+        }
+      },
+      "name": "James Colgan Union Square"
+    },
+    {
+      "fsq_id": "4ac2ac13f964a520449a20e3",
+      "categories": [
+        {
+          "id": 17039,
+          "name": "Fashion Retail"
+        }
+      ],
+      "distance": 186,
+      "geocodes": {
+        "main": {
+          "latitude": 37.787304,
+          "longitude": -122.406684
+        },
+        "roof": {
+          "latitude": 37.787304,
+          "longitude": -122.406684
+        }
+      },
+      "name": "Louis Vuitton"
+    }
+  ]
+}
