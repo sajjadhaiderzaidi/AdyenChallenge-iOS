@@ -64,6 +64,7 @@ Code is divided into following Groups:
 - More unit test coverage
 - Snapshot tests for UI components
 - UI tests for flows 
+- Linter(SwiftLint, etc.) can be added for consistant code style 
 - Improved UI
 
 ## 5. Authors
